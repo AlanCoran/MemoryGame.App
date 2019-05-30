@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame.App.iOS", "Memor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryGame.App", "MemoryGame.App\MemoryGame.App\MemoryGame.App.csproj", "{30337C2F-FBA6-4471-AA3E-FADFB6B8015A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame.API", "..\MemoryGame\MemoryGame.API\MemoryGame.API.csproj", "{1A4AB6FD-5B43-46EF-A6BE-AB460812E041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame.API", "..\MemoryGame.App\MemoryGame.API\MemoryGame.API.csproj", "{1A4AB6FD-5B43-46EF-A6BE-AB460812E041}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame.Web", "MemoryGame.Web\MemoryGame.Web.csproj", "{600AEE9D-C469-43EE-8479-BFB38376E4D2}"
 EndProject
